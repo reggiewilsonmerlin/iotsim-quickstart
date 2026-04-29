@@ -1,0 +1,14 @@
+{
+  "name": "IOTSIM Quick Start Guide",
+  "short_name": "IOTSIM Quick Start",
+  "description": "Infinite Outcome Trade Simulator & Insight Monitor — Quick Start Guide",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#00D4FF",
+  "orientation": "any",
+  "icons": [
+    { "src": "icon192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
